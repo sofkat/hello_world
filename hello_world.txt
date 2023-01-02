@@ -1,1 +1,33 @@
 Hello World
+SHA256:29DliZP/YZrdBKMkPkHcjLav3X7QwE5Os10EqIpPVMA sofiarojast9@gmail.com
+The key's randomart image is:
++--[ED25519 256]--+
+|       ...   ... |
+|        E..+.   .|
+|         .=.+. . |
+|        .+.* .* .|
+|       oS.O +=o*.|
+|      . o= B .=oo|
+|       o. + + o..|
+|        .  + B +.|
+|          . +.=..|
++----[SHA256]-----+
+
+activitus bar
+auto close tag
+function js snippets
+live server
+multiple cursor case persere
+prettier
+tabnine
+tokyo night
+
+flesbox
+grid
+
+https://adventjs.dev/es/challenges/2022/1
+
+useState
+useEffect
+
+https://makeitreal.camp/top
